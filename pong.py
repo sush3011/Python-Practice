@@ -1,4 +1,4 @@
-import turtle
+import turtle  #if got any error during import or running game please install this package sudo apt-get install python3-tk
 import os
 
 wn = turtle.Screen()
